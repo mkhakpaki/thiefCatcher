@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Thief Catcher</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="close">close</string>
+    <string name="welcome">welcome</string>
+    <string name="needPermissionDesc">This app needs some \n permissions, tap next to start</string>
+    <string name="needSomePermission">We need some permissions to get started</string>
+    <string name="neededPermissions">Camera(to take intruder selfie) \n Storage(to save pictures)\n Draw over other apps(to take pictures from lock screen)</string>
+    <string name="grantPermissions">Grant Permissions</string>
+    <string name="deviceAdmin">Device Admin</string>
+    <string name="needDeviceAdmin">To Detect failed unlock attempts, we need to be Device Administrator</string>
+    <string name="deviceAdminDesc">Important \n To uninstall this app you will need to remove device Administrator access \n You can do this by selecting Uninstall from the settings page</string>
+    <string name="grantDeviceAdmin">Grant Device Admin</string>
+    <string name="iUnderstand">I understand</string>
+    <string name="permissions">permissions</string>
+    <string name="select">Select</string>
+    <string name="selectStoragePath">Select where should photos saved</string>
+    <string name="selectCamera">Which camera should be used?</string>
+    <string name="frontCamera">Front Camera</string>
+    <string name="rearCamera">Rear Camera</string>
+    <string name="failureCount">Max failure Count</string>
+    <string name="failureCountHint">Only accepts between 1 and 3</string>
+    <string name="selectFolderForbidded">Due to your android version select path is forbidden for you</string>
+    <string name="uninstall">Uninstall</string>
 </resources>

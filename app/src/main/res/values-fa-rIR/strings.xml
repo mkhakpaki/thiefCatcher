@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دزدگیر</string>
+    <string name="hello_blank_fragment">سلام و درود</string>
+    <string name="next">بعدی</string>
+    <string name="previous">قبلی</string>
+    <string name="close">بستن</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="needPermissionDesc">برای اجرای صحیح برنامه نیاز به تعدادی دسترسی داریم \\n بعدی را کلیک کنید تا شروع کنیم</string>
+    <string name="needSomePermission">برای شروع نیاز به دسترسی داریم</string>
+    <string name="neededPermissions">دوربین(برای عکس گرفتن)\n\nحافظه (برای ذخیره عکس ها)\n\nبالا آمدن روی بقیه اپ ها(برای گرفتن عکس از صفحه قفل)\n</string>
+    <string name="grantPermissions">دادن دسترسی ها</string>
+    <string name="deviceAdmin">ادمین دستگاه</string>
+    <string name="needDeviceAdmin">برای بررسی رمز اشتباه نیاز به دسترسی ادمین دستگاه داریم</string>
+    <string name="deviceAdminDesc">مهم\n\nبرای حذف این برنامه شما باید دسترسی ادمین دستگاه را بگیرید\n\nبرای حذف نرم افزار می توانید از منو برنامه قسمت حذف برنامه را انتخاب کنید</string>
+    <string name="grantDeviceAdmin">دادن دسترسی ادمین دستگاه</string>
+    <string name="iUnderstand">فهمیدم</string>
+    <string name="permissions">دسترسی ها</string>
+    <string name="select">انتخاب</string>
+    <string name="selectStoragePath">عکس ها کجا ذخیره شوند؟</string>
+    <string name="selectCamera">کدام دوربین استفاده شود؟</string>
+    <string name="frontCamera">جلو</string>
+    <string name="rearCamera">عقب</string>
+    <string name="failureCount">حداکثر تعداد خطا برای گرفتن عکس</string>
+    <string name="failureCountHint">فقط اعداد بین 1 تا  3 مورد قبل است</string>
+    <string name="selectFolderForbidded">با توجه به ورژن اندروید شما امکان انتخاب مسیر وجود ندارد</string>
+    <string name="uninstall">حذف برنامه</string>
+</resources>
